@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    background-color:#C83717 ;
+}
+
+.text-start{
+    color: black;
+}
+
+.btn {
+    border-color: #C83717;
+    color: #C83717;
+    border-radius: 25px;
+    margin-top: -20px;
+   
+}
+
+ #btn {
+    border-color: #C83717;
+    color: #C83717;
+    border-radius: 25px;
+    margin-left: -6px;
+
+}
+
+ .about {
+    text-align: right;
+    word-wrap: break-word;
+  }
+
+ .card-title{
+    color: #C83717;
+    font-weight: bold;
+ }
+   
+
+#slider{
+    margin: 0 0.5rem;
+}
